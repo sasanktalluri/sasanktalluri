@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Sasank Talluri
 
-<!--
-**sasanktalluri/sasanktalluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Full Stack & Backend Systems**
 
-Here are some ideas to get you started:
+I am a results-driven Software Engineer with 3+ years of professional experience building scalable backend systems and full-stack applications. I enjoy working on system design, APIs, analytics pipelines, and performance-oriented solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java, C#, Python, JavaScript, TypeScript
+
+**Backend & APIs**
+- Spring Boot, .NET Core, REST APIs, Microservices
+- Authentication, Authorization, API Design
+
+**Frontend**
+- React, Angular, HTML, CSS
+
+**Databases**
+- MySQL, PostgreSQL, SQL Server
+- Database Design, JDBC, ORM
+
+**Tools & Platforms**
+- Git, GitHub, CI/CD
+- Docker, Linux
+- Unity (C#) – Gameplay & Analytics Integration
+
+---
+
+## 🧠 What I Focus On
+- Clean, maintainable code
+- Backend system design & APIs
+- Data modeling and analytics pipelines
+- Performance optimization
+- Writing code that scales and is easy to reason about
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 📧 Email: *(optional)*
+
+---
+
+⭐ Feel free to explore my repositories and reach out if you’d like to collaborate or discuss engineering problems!
