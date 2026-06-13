@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Full Stack & Backend Systems**
 
-I am a results-driven Software Engineer with 3+ years of professional experience building scalable backend systems and full-stack applications. I enjoy working on system design, APIs, analytics pipelines, and performance-oriented solutions.
+I am a results-driven Software Engineer with 5+ years of professional experience building scalable backend systems and full-stack applications. I enjoy working on system design, APIs, analytics pipelines, and performance-oriented solutions.
 
 ---
 
